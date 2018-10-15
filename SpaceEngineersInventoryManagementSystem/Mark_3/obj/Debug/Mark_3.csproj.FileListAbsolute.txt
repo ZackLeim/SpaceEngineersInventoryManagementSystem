@@ -1,0 +1,2 @@
+D:\Ting\Programs\SpaceEngineersInventoryManagementSystem\Mark_3\obj\Debug\Mark_3.csprojAssemblyReference.cache
+D:\Ting\Programs\SpaceEngineersInventoryManagementSystem\Mark_3\obj\Debug\Mark_3.csproj.CoreCompileInputs.cache
